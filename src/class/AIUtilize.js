@@ -9,6 +9,7 @@ import '../playground/blocks/block_ai_utilize_pose_landmarker';
 import '../playground/blocks/block_ai_utilize_face_landmarker';
 import '../playground/blocks/block_ai_utilize_object_detector';
 
+
 export default class AIUtilize {
     constructor(playground) {
         this.playground = playground;
